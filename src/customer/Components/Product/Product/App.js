@@ -123,9 +123,9 @@ export function App() {
                 <Panel header="Price">
                   <PriceSlider attribute="node.variants.edges.node.price.amount" />
                 </Panel>
-                <Panel header="Ratings">
+                {/* <Panel header="Ratings">
                   <Ratings attribute="rating" />
-                </Panel>
+                </Panel> */}
               </div>
             </section>
             <footer className="container-filters-footer" data-layout="mobile">
