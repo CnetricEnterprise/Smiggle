@@ -1,0 +1,8 @@
+.product-image:hover {
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+  transition: "box-shadow 0.3s ease";
+}
+
+.product-image:active {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
